@@ -1,7 +1,7 @@
 # [My Bolg](https://lichao3140.github.io/)
 
 ## 上传本地代码及更新代码到GitHub教程
-===
+***
 ### 上传本地代码:
 #### 第一步：去github上创建自己的Repository
 #### 第二步:
@@ -36,7 +36,7 @@ git pull origin master
 ```
 git push -u origin master
 ```
-===
+***
 ### 更新代码
 #### 第一步：查看当前的git仓库状态，可以使用git status
 ```
